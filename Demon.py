@@ -85,15 +85,15 @@ def check(ccx):
         "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 DuckDuckGo/7 Safari/605.1.15",
         "platform": "MacIntel"
       },
-      "card": "4111111111111111",
-      "cvv": "855",
-      "email": "gamerabdallag@gmail.com",
-      "expiryDate": "12/55",
+      "card": n,
+      "cvv": cvc,
+      "email": "gamerabdallagfghh@gmail.com",
+      "expiryDate": mm+yy,
       "inputType": "text",
-      "month": "12",
+      "month": mm,
       "name": "ALI HA",
       "panBrandLogo": "brand-logo-visa",
-      "year": "55"
+      "year": yy
     }
 
   headers = {

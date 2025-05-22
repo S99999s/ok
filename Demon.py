@@ -29,7 +29,7 @@ def check(ccx):
         "landing_route": "/shop/payment/validate",
         "is_validation": False,
         "access_token": "4395dba2-b54d-48f6-8909-60f59673e106",
-        "csrf_token": "58289f6983571689642dd67fc2fe58b5d7c4cf39o1779310008"
+        "csrf_token": "86d5eaf5868fa17f075d9500a8fbaeac71b9b851o1779449165"
       }
     }
 

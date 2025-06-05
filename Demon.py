@@ -14,8 +14,6 @@ def check(ccx):
   r = requests.session()
   ua = UserAgent()
   user_agent = ua.random
-import requests
-import json
 
   url = "https://apiv2.sooesim.com/v1/order/create.php"
 
